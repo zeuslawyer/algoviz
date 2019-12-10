@@ -1,11 +1,9 @@
-import React from 'react'
+import React from 'react';
+
+import '../../../styling/Node.css';
 
 const Node = () => {
-  return (
-    <div>
-      A NODE
-    </div>
-  )
-}
+  return <div className='node'>X</div>;
+};
 
-export default Node
+export default Node;
