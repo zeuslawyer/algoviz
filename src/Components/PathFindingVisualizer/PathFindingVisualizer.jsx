@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import Node from './Node/Node';
+import Node from '../Node/Node';
 import '../../styling/App.css';
 
 export default class PathFindingVisualizer extends Component {
